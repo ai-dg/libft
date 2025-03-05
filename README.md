@@ -1,6 +1,7 @@
 # 🏆 Libft - My Own C Library
 
-![image](https://github.com/user-attachments/assets/37b543cf-d6f3-42e2-b139-71f0b3e7ed0b)
+<img src="https://github.com/user-attachments/assets/37b543cf-d6f3-42e2-b139-71f0b3e7ed0b" width="500">
+
 
 ![Score](https://img.shields.io/badge/Score-125%25-brightgreen)  
 📌 **42 School - Core Curriculum Project**  
@@ -70,6 +71,8 @@ int main() {
 ```
 
 Compile with:
-gcc main.c -L. -lft -o my_program
+```sh
+gcc main.c -Wall -Wextra -Werror -L. -lft -o my_program
 ./my_program
+```
 
