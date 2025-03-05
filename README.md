@@ -1,5 +1,7 @@
 # 🏆 Libft - My Own C Library
 
+![image](https://github.com/user-attachments/assets/37b543cf-d6f3-42e2-b139-71f0b3e7ed0b)
+
 ![Score](https://img.shields.io/badge/Score-125%25-brightgreen)  
 📌 **42 School - Core Curriculum Project**  
 
@@ -48,6 +50,7 @@ I successfully completed all mandatory parts and **bonus functions**, achieving 
 ```sh
 git clone https://github.com/ai-dg/libft.git
 cd libft
+```
 
 2️⃣ Compile the library
 make
@@ -55,6 +58,7 @@ make
 3️⃣ Use Libft in another project
 
 Include the header and link libft.a:
+```c
 #include "libft.h"
 
 int main() {
@@ -63,6 +67,7 @@ int main() {
     free(str);
     return 0;
 }
+```
 
 Compile with:
 gcc main.c -L. -lft -o my_program
