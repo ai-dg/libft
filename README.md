@@ -1,7 +1,6 @@
 # 🏆 Libft - My Own C Library
 
-<img src="https://github.com/user-attachments/assets/37b543cf-d6f3-42e2-b139-71f0b3e7ed0b" width="500">
-
+<img src="https://github.com/user-attachments/assets/871bb5f9-3b9d-4ac9-a6a5-fa5286e27646" width="500">
 
 ![Score](https://img.shields.io/badge/Score-125%25-brightgreen)  
 📌 **42 School - Core Curriculum Project**  
