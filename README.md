@@ -23,7 +23,7 @@ I successfully completed all mandatory parts and **bonus functions**, achieving 
 - `Makefile` → Automates compilation (`all`, `clean`, `fclean`, `re`, `bonus`)  
 
 ## ▌ Implemented Functions
-### 🔹 **Mandatory Part**
+### ■ **Mandatory Part**
 | Category         | Functions |
 |------------------|----------------|
 | ▸ **Char & String** | `ft_isalpha` `ft_isdigit` `ft_isalnum` `ft_isascii` `ft_isprint` `ft_strlen` `ft_strdup` `ft_strcpy` `ft_strncpy` `ft_strlcpy` `ft_strlcat` `ft_strchr` `ft_strrchr` `ft_strncmp` `ft_strnstr` |
@@ -32,7 +32,7 @@ I successfully completed all mandatory parts and **bonus functions**, achieving 
 | ▸ **String Manipulation** | `ft_substr` `ft_strjoin` `ft_strtrim` `ft_split` `ft_itoa` `ft_strmapi` `ft_striteri` |
 | ▸ **Output** | `ft_putchar_fd` `ft_putstr_fd` `ft_putendl_fd` `ft_putnbr_fd` |
 
-### ▌ **Bonus (Linked Lists)**
+### ■ **Bonus (Linked Lists)**
 | Function | Description |
 |----------|-------------|
 | `ft_lstnew` | Creates a new list node |
