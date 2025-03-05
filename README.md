@@ -54,7 +54,9 @@ cd libft
 ```
 
 2️⃣ Compile the library
+```sh
 make
+```
 
 3️⃣ Use Libft in another project
 
@@ -75,4 +77,11 @@ Compile with:
 gcc main.c -Wall -Wextra -Werror -L. -lft -o my_program
 ./my_program
 ```
+## 📜 License
+
+This project was completed as part of the **42 School** curriculum.  
+It is intended for **academic purposes only** and follows the evaluation requirements set by 42.  
+
+Unauthorized public sharing or direct copying for **grading purposes** is discouraged.  
+If you wish to use or study this code, please ensure it complies with **your school's policies**.  
 
