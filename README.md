@@ -4,7 +4,8 @@
 
 ## ▌ Description
 Libft is my first custom C library. This project allowed me to reimplement essential **libc** functions, as well as add utility functions for handling strings, memory, and linked lists.
-<img width="1580" height="909" alt="image" src="https://github.com/user-attachments/assets/2647122e-b582-40f1-8439-aa7f9f4a5885" />
+<!-- <img width="1481" height="858" alt="image" src="https://github.com/user-attachments/assets/36e2ba3b-4fc0-40f7-a55c-8b1f364f2719" /> -->
+
 
 
 ```mermaid
