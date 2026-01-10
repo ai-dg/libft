@@ -5,6 +5,26 @@
 ## ▌ Description
 Libft is my first custom C library. This project allowed me to reimplement essential **libc** functions, as well as add utility functions for handling strings, memory, and linked lists.
 
+```mermaid
+flowchart TB
+    A[User Program] --> B[libft.a]
+
+    B --> C[String Manipulation]
+    B --> D[Memory Management]
+    B --> E[Linked Lists]
+
+    C --> F[Low-level System Calls]
+    D --> F
+    E --> F
+
+    subgraph Libft_Core [Libft Core Components]
+        C
+        D
+        E
+    end
+
+```
+
 ## ▌ Objectives
 ▸ Understand and reimplement essential **libc** functions  
 ▸ Master memory management and avoid leaks  
