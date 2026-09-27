@@ -8,6 +8,7 @@ Libft is my first custom C library. This project allowed me to reimplement essen
 
 
 
+<!-- Old diagram, kept for reference; the overview image above replaces it.
 ```mermaid
 flowchart TB
     A[User Program] --> B[libft.a]
@@ -27,6 +28,7 @@ flowchart TB
     end
 
 ```
+-->
 
 ## ▌ Objectives
 ▸ Understand and reimplement essential **libc** functions  
